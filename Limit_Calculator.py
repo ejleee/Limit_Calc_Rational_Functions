@@ -1,5 +1,3 @@
-import math
-
 def separate_terms(func):
     terms = []
     x = func.rsplit("+")
